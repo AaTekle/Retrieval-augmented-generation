@@ -1,4 +1,4 @@
-# Introduction to Retrieval Augmented Generation
+# Retrieval Augmented Generation
 
 Retrieval Augmented Generation (RAG) w/Jupyter Notebooks and CSV files. The vector database uses the Qdrant database
 which can run in-memory.
