@@ -3,6 +3,10 @@
 Retrieval Augmented Generation (RAG) w/Jupyter Notebooks and CSV files. The vector database uses the Qdrant database
 which can run in-memory.
 
+### Tools:
+* **Qdrant** = Open-Source Vector Database/Vector Search Engine (written in Rust)
+* **Python**
+
 **Install the dependencies**
 
 Create the virtual environment and install the dependencies:
