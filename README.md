@@ -15,7 +15,7 @@ source .venv/bin/activate
 
 Here is a summary of what this repository will use:
 
-1. [Qdrant](https://github.com/qdrant/qdrant) for the vector database. We will use an in-memory database for the examples
+1. [Qdrant](https://github.com/qdrant/qdrant) for the vector database. Using an in-memory database for the examples
 2. [Llamafile](https://github.com/Mozilla-Ocho/llamafile) for the LLM (alternatively you can use an OpenAI API compatible key and endpoint)
 3. [OpenAI's Python API](https://pypi.org/project/openai/) to connect to the LLM after retrieving the vectors response from Qdrant
 4. Sentence Transformers to create the embeddings with minimal effort
